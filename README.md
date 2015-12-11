@@ -7,18 +7,21 @@ List of Files used in LinkIT One Project:
 
 Arduino Sketches and examples taken from AWS IoT Guides:
 
-*Shadow*
+**Shadow**
 * aws_paho_shadow.ino
 * aws_mtk_iot_config.h
 
-*MQTT*
+
+**MQTT**
 * aws_paho_mqtt.ino
 * aws_mtk_iot_config.h
 
-*Sensors*
+
+**Sensors**
 * temp_sensor_example.ino
 
-*Libraries*
+
+**Libraries**
 * aws_iot_library (AWS IoT)
 * mbedtls (AWS IoT)
 * hx711 (DF Robot Weight Sensor)
