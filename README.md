@@ -19,6 +19,7 @@ Arduino Sketches and examples taken from AWS IoT Guides:
 
 **Sensors**
 * temp_sensor_example.ino
+* weight_sensor_example.ino
 
 
 **Libraries**
